@@ -2,11 +2,11 @@
 
 int main() {
 
-    double a;
-    double b;
-    scanf("%lf", &a);
-    scanf("%lf", &b);
-    double r = (a * b)/12;
-    printf("%.3lf\n", r);
+    double tempo;
+    double velocidade;
+    scanf("%lf", &tempo);
+    scanf("%lf", &velocidade);
+    double resposta = (tempo * velocidade)/12;
+    printf("%.3lf\n", resposta);
     return 0;
 }
