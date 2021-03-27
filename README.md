@@ -1,2 +1,2 @@
-# ExerciciosC
+# Exercicios
 Exercícios
